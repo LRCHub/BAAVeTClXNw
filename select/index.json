@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "It's all too much",
+  "base_artist": "YUI",
+  "createdAt": "2026-03-08T05:22:36.587406Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "Clearlake",
+      "has_synced": false,
+      "path": "select/01_It's_All_Too_Much_Clearlake.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/02_It's_All_Too_Much_YUI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "Beatles",
+      "has_synced": true,
+      "path": "select/03_It's_All_Too_Much_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "Steve Hillage",
+      "has_synced": false,
+      "path": "select/04_It's_All_Too_Much_Steve_Hillage.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It’s All Too Much",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/05_It’s_All_Too_Much_Journey.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_It's_All_Too_Much_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/07_It's_All_Too_Much_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "Yui",
+      "has_synced": true,
+      "path": "select/08_It's_All_Too_Much_Yui.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It’s All Too Much",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_It’s_All_Too_Much_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "Joe Jackson",
+      "has_synced": false,
+      "path": "select/10_It's_All_Too_Much_Joe_Jackson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "Beatles (the)",
+      "has_synced": true,
+      "path": "select/11_It's_All_Too_Much_Beatles_(the).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "Sidonie",
+      "has_synced": false,
+      "path": "select/12_It's_All_Too_Much_Sidonie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "Beatles",
+      "has_synced": true,
+      "path": "select/13_It's_All_Too_Much_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It’s All Too Much",
+      "artist": "Jackson, Joe",
+      "has_synced": false,
+      "path": "select/14_It’s_All_Too_Much_Jackson,_Joe.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It's all too much",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_01_It's_all_too_much_YUI.txt"
+    }
+  ]
+}
